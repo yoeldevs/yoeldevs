@@ -12,9 +12,6 @@ C
 
 Golang
 
-SQL
-
-Among others
 ´´´
 
 :bomb: :open_file_folder: :email: :key: :date:
