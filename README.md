@@ -6,11 +6,10 @@
 
 ## *I am currently learning:* 
 ´´´
-python
 
 C++
 
-Golang
+JavaScript
 
 ´´´
 
