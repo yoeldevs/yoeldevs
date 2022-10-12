@@ -7,8 +7,6 @@
 ## *I am currently learning:* 
 ´´´
 
-C++
-
 JavaScript
 
 ´´´
@@ -18,9 +16,7 @@ JavaScript
 ---
 ## Related: :pushpin:
 
-![Script JS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx3JQKPOmZHXb68y2j7B0nRcgmB9bMQ3ftTw&usqp=CAU)
-![Lengueje](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuQuHDkv27FNOZpDyYjiainA_zmUR8_V3Daw&usqp=CAU)
- 
+![SKill](https://drive.google.com/file/d/1vg983thuR-hDozpFdJqi-bUDzsGFo05w/view?usp=sharing)
 ---
 
 
