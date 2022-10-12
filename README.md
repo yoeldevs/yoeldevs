@@ -16,7 +16,7 @@ JavaScript
 ---
 ## Related: :pushpin:
 
-![SKill]("/img/Yoel-4devs.png")
+![SKill]("./img/Yoel-4devs.png")
 ---
 
 
