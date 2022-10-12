@@ -16,7 +16,7 @@ JavaScript
 ---
 ## Related: :pushpin:
 
-![SKill](https://drive.google.com/file/d/1vg983thuR-hDozpFdJqi-bUDzsGFo05w/view?usp=sharing)
+![SKill]("/img/Yoel-4devs.png")
 ---
 
 
