@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-##print(#"I am sotfware devolopers."##)
+print("I am sotfware devolopers")
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yoel-lebron-montero-2a5b76224/) 
