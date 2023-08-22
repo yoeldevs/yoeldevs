@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/yoel-lebron-montero-2a5b76224/"target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="yoel0990" target="_blank">
+  <a href="https://discord.gg/w56aqu2KuW" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://instagram.com/y4devs01?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
