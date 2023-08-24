@@ -14,6 +14,9 @@
   <a href="https://instagram.com/y4devs01?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+   <a href="https://www.twitch.tv/yoel4devs?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=twitc&logo=twitch&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
